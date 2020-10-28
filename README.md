@@ -1,7 +1,7 @@
-# A template to quick-start a static website project
+# A template to Quick-Start a Static Website project
 
-## HOW TO USE:
-1. Install **Nodejs** [Link Here!](https://nodejs.org/en/)
+# HOW TO USE:
+1. Install **Nodejs** - [Link Here!](https://nodejs.org/en/)
 2. On the command line, make sure you're at your project folder, run **npm i**, wait for all the dependancies to finish installing
 3. On the command line, make sure you're at your project folder, run **npm start**, this will start up your project environment!
 
